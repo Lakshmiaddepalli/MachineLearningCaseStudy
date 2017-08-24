@@ -1,0 +1,43 @@
+awesome->
+2002
+great->
+42420
+fantastic->
+873
+amazing->
+1305
+love->
+40277
+horrible->
+659
+bad->
+3197
+terrible->
+673
+awful->
+345
+wow->
+131
+hate->
+1057
+
++-------------+-------+-------+------------------+------------------+
+|     name    | index | class |      value       |      stderr      |
++-------------+-------+-------+------------------+------------------+
+|     love    |  None |   1   |  1.39989834302   | 0.0287147460124  |
+| (intercept) |  None |   1   |  1.36728315229   | 0.00861805467824 |
+|   awesome   |  None |   1   |  1.05800888878   |  0.110865296265  |
+|   amazing   |  None |   1   |  0.892802422508  |  0.127989503231  |
+|  fantastic  |  None |   1   |  0.891303090304  |  0.154532343591  |
+|    great    |  None |   1   |  0.883937894898  | 0.0217379527921  |
+|     wow     |  None |   1   | -0.0541450123333 |  0.275616449416  |
+|     bad     |  None |   1   | -0.985827369929  | 0.0433603009142  |
+|     hate    |  None |   1   |  -1.40916406276  | 0.0771983993506  |
+|    awful    |  None |   1   |  -1.76469955631  |  0.134679803365  |
+|   horrible  |  None |   1   |  -1.99651800559  | 0.0973584169028  |
+|   terrible  |  None |   1   |  -2.09049998487  | 0.0967241912229  |
++-------------+-------+-------+------------------+------------------+
+[12 rows x 5 columns]
+
+'Baby Luke can turn a clean diaper to a dirty diaper in 3 seconds flat. The diaper champ turns the smelly diaper into "what diaper smell" in less time than that. I hesitated and wondered what I REALLY needed for the nursery. This is one of the best purchases we made. The champ, the baby bjorn, fluerville diaper bag, and graco pack and play bassinet all vie for the best baby purchase.Great product, easy to use, economical, effective, absolutly fabulous.UpdateI knew that I loved the champ, and useing the diaper genie at a friend\'s house REALLY reinforced that!! There is no comparison, the chanp is easy and smell free, the genie was difficult to use one handed (which is absolutly vital if you have a little one on a changing pad) and there was a deffinite odor eminating from the genieplus we found that the quick tie garbage bags where the ties are integrated into the bag work really well because there isn\'t any added bulk around the sealing edge of the champ.'
+'I LOVE LOVE LOVE this product! It is SO much easier to use than the Diaper Genie, (you need a PHD in poopy to figure out how to use the darn thing!) and it even takes the same bags as my kitchen trash can, shich is super convenient, and cost efficient as I can buy them in bulk.The only reason for not rating it a 5 star was that I did have one small problem with it. The foam gasket in the barrell which keeps the poopy smell inside the unit ripped somehow, and it got VERY stinky. HOWEVER, I contacted the manufacturer though their website, and received an email back the same day stating that this was unusual, and that replacement gaskets were on their way to me. They arrived inside of a week and after replacing, it works great again! (They even sent me extras should it happen again)I HIGHLY reccomend this diaper pail over ANY competitors, you will not be sorry!'
