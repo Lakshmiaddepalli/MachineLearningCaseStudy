@@ -1,0 +1,34 @@
+2522
+2055
+3246
+2928
+
+Kings Of Leon	43218
+Dwight Yoakam	40619
+Björk	38889
+Coldplay	35362
+Florence + The Machine	33387
+Justin Bieber	29715
+Alliance Ethnik	26689
+OneRepublic	25754
+Train	25402
+The Black Keys	22184
+
+{'artist': 'Slow Club', 'total_count': 83}
+
+
+song	count
+Undo - Björk	435
+Secrets - OneRepublic	380
+Revelry - Kings Of Leon	221
+You're The One - Dwight
+Yoakam ...	162
+Fireflies - Charttraxx
+Karaoke ...	111
+Hey_ Soul Sister - Train	101
+Sehr kosmisch - Harmonia	97
+Horn Concerto No. 4 in E
+flat K495: II. Romance ...	89
+OMG - Usher featuring
+will.i.am ...	61
+Bigger - Justin Bieber	43
